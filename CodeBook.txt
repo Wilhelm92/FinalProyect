@@ -1,0 +1,2 @@
+The variables correspond to the mean of the origininal variables wich description is allowed in the txt documents
+that are in the zip. code of the proyect.
